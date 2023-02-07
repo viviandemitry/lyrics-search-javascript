@@ -9,6 +9,8 @@ Find songs, artists and lyrics using the [lyrics.ovh](https://lyrics.ovh) API
 - Add pagination
 - Add get lyrics functionality and display in DOM
 
-## Live 
+## Live Demo
 
-https://lyrics-search-javascript.vercel.app/
+<p>(https://lyrics-search-javascript.vercel.app/) <br> </p>
+
+
