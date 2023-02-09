@@ -13,4 +13,6 @@ Find songs, artists and lyrics using the [lyrics.ovh](https://lyrics.ovh) API
 
 <p>(https://lyrics-search-javascript.vercel.app/) <br> </p>
 
+*Trying to fix the bug yet*
+
 
